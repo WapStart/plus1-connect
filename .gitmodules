@@ -10,3 +10,6 @@
 [submodule "perl"]
 	path = perl
 	url = https://github.com/WapStart/plus1-perl-sdk.git
+[submodule "js"]
+	path = js
+	url = https://github.com/WapStart/plus1-js-sdk.git
