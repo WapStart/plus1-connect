@@ -1,3 +1,6 @@
 [submodule "ios"]
 	path = ios
 	url = https://github.com/WapStart/plus1-ios-sdk.git
+[submodule "android"]
+	path = android
+	url = https://github.com/WapStart/plus1-android-sdk.git
