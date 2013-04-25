@@ -1,0 +1,3 @@
+[submodule "ios"]
+	path = ios
+	url = https://github.com/WapStart/plus1-ios-sdk.git
