@@ -7,3 +7,6 @@
 [submodule "php"]
 	path = php
 	url = https://github.com/WapStart/plus1-php-sdk.git
+[submodule "perl"]
+	path = perl
+	url = https://github.com/WapStart/plus1-perl-sdk.git
