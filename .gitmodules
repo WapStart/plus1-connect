@@ -13,6 +13,6 @@
 [submodule "js"]
 	path = js
 	url = https://github.com/WapStart/plus1-js-sdk.git
-[submodule "js_web"]
-	path = js_web
-	url = https://github.com/WapStart/plus1_js_web_sdk.git
+[submodule "web"]
+	path = web
+	url = https://github.com/WapStart/plus1-web-sdk.git

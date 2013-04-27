@@ -10,7 +10,7 @@
  * [java script код для мобильных сайтов](https://github.com/WapStart/plus1-js-sdk)
  * [реализация интеграции server-to-server на php](https://github.com/WapStart/plus1-php-sdk)
  * [реализация интеграции server-to-server на perl](git@github.com:WapStart/plus1-perl-sdk.git)
- * [код для веб-сайтов, который показывает рекламу только для мобильных пользователей (php + js)](https://github.com/WapStart/plus1_js_web_sdk)
+ * [код для веб-сайтов, который показывает рекламу только для мобильных пользователей (php + js)](https://github.com/WapStart/plus1-web-sdk)
 
 
 Если вас не устраивают предложенные варианты подключения, 
