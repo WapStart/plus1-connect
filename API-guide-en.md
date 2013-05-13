@@ -69,6 +69,9 @@ Additional parameters (in order to improve targeting) can be passed upon Plus1 a
 5.1 Parsing response
 --------------------
 Here is a brief scheme of parsing response from API:
+
+![Parsing API response](https://github.com/WapStart/plus1-connect/raw/master/doc/en-api-response.jpg)
+
 Example request to the controller application would look as follows:
 
 	GET /?area=application&version=2&id=8&sex=1&age=42&kws= russia%2Cmobile%20adv%2Cwapstart&pageId=0000000000111111111122222222224444444444&location=42;43 HTTP/1.1

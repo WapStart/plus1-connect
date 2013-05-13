@@ -91,7 +91,7 @@ http://ro.plus1.wapstart.ru
 
 Приведенная блок схема кратко описывает порядок разбора ответа API:
 
-![Порядок разбора ответа API](https://github.com/WapStart/plus1-connect/raw/master/doc/api-response.jpg)
+![Порядок разбора ответа API](https://github.com/WapStart/plus1-connect/raw/master/doc/ru-api-response.jpg)
 
 Пример запроса к контроллеру application будет выглядеть следующим образом:
 
