@@ -47,6 +47,7 @@ Query_string should contain the following parameters:
 * *kws* – user keywords. URL encoded string containing comma separated values. Optional.
 * *login* - login, or any other user identifier. In order to keep this confidential we recommend using its hash function rather than login itself. Optional.
 * *location* – geographical location in WGS-84 format. Longitude and latitude separated by semi-colon. For example, location=37.677751;55.757718 Optional.
+* *realSiteId* - parameter for partner networks - site ID in your network. Unsigned integer. Optional.
 
 All parameters characterizing device (brand/model/OS) must be conveyed by means of additional headers.
 
