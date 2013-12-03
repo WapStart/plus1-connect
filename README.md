@@ -4,7 +4,7 @@
 В сабмодулях к этому репозиторию вы найдете наиболее типичные варианты подключения к plus1.wapstart.ru.
  * [sdk для устройств под управлением android](https://github.com/WapStart/plus1-android-sdk)
  * [sdk для устройств под управлением iOS](https://github.com/WapStart/plus1-ios-sdk)
- * [sdk для устройств под управление J2ME](https://github.com/WapStart/plus1-j2me-sdk)
+ * [sdk для устройств под управлением J2ME](https://github.com/WapStart/plus1-j2me-sdk)
  * [javascript код для мобильных сайтов](https://github.com/WapStart/plus1-js-sdk)
  * [реализация интеграции server-to-server на php](https://github.com/WapStart/plus1-php-sdk)
  * [реализация интеграции server-to-server на perl](git@github.com:WapStart/plus1-perl-sdk.git)
