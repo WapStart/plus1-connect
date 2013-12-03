@@ -16,3 +16,6 @@
 [submodule "web"]
 	path = web
 	url = https://github.com/WapStart/plus1-web-sdk.git
+[submodule "j2me"]
+	path = j2me
+	url = https://github.com/WapStart/plus1-j2me-sdk.git
