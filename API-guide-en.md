@@ -148,7 +148,7 @@ Parameters that must be translated in headers:
 
 All mobile device headers containing "accept-", "x-", "host", "referer", "via" should be passed with API request. Please prefix all headers with “x-plus1-”
 Additionally you need to pass as a header "x-plus1-remote-addr" the value of ip address (from remoteaddr). Additionally, header "x-plus1-remote-addr" should be passed onto rotator, by means of adding it into clients IP address.
-User-Agent must be translated twice, as the string "User-Agent" itself and as the value of header "xplus1-user-agent".
+User-Agent must be passed twice, as the string "User-Agent" itself and as the value of header "x-plus1-user-agent".
 
 Providing a unique definition of user:
 
